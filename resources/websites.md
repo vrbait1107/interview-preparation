@@ -8,6 +8,9 @@
 * [SQL for Devs](https://sqlfordevs.com/)
 * [TECH TFQ](https://techtfq.com/blog)
 
+### CSS
+* [CSS Trick](https://css-tricks.com/)
+
 ### PHP
 * [PHP The Right Way](https://phptherightway.com/)
 
@@ -18,3 +21,11 @@
 
 ### ENGINEERING
 * [Netflix Blog](https://netflixtechblog.com/)
+* [GitHub Blog](https://github.blog/engineering/)
+* [Meta Blog](https://engineering.fb.com/)
+* [Microsoft Blog](https://blogs.microsoft.com/)
+* [AWS Blog](https://www.linkedin.com/blog/)
+* [Stackoverflow Blog](https://stackoverflow.blog/)
+* [Dev To](https://dev.to/)
+* [Smashing Magazine](https://www.smashingmagazine.com/)
+* [MDN Docs](https://developer.mozilla.org/en-US/)
