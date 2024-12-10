@@ -2,6 +2,7 @@
 
 ### BROWSER
 * [Chrome for Developers](https://developer.chrome.com)
+* [Performance Calendar](https://www.perfplanet.com/)
 
 ### SQL 
 * [Planet Scale Blog](https://planetscale.com/blog/category/engineering)
@@ -29,3 +30,6 @@
 * [Dev To](https://dev.to/)
 * [Smashing Magazine](https://www.smashingmagazine.com/)
 * [MDN Docs](https://developer.mozilla.org/en-US/)
+
+### COURSES
+* [FREECODECAMP](https://freecodecamp.org/)
